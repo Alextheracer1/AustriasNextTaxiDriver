@@ -16,9 +16,11 @@ Website with API:
 ## Idea
 Basically my friend and I are searching for the best Taxi Driver AI in GTA V.
 For this we chose the hardest road there is on the map for the drivers to drive on.
+
 ![Length of the Track](20220727195437_1.jpg)
 
 The startpoint is at the end of the street.
+
 ![Startpoint](20220727195449_1.jpg)
 
 IF a Taxi Driver is able to make it to the finish line, the road will be driven backwards with the same driver.
